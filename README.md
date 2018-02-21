@@ -1,2 +1,5 @@
 # hello-world
-Hello World Repository
+Hello!
+Emmanuel Talan:
+  BA Graduate - York University
+  Computer Programmer Graduate - Humber College
